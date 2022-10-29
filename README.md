@@ -28,4 +28,5 @@
 таблица умножения на Python.py - таблица умножения на Python
 
 $$A\vee A= A$$
+
 ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114632557/198817621-3d4e71f0-3033-40bf-a4a0-94a4c6cad795.png)
