@@ -30,3 +30,12 @@
 $$A\vee A= A$$
 
 ![lagrida_latex_editor (1)](https://user-images.githubusercontent.com/114632557/198817621-3d4e71f0-3033-40bf-a4a0-94a4c6cad795.png)
+
+$$\overline{E}^{2}_{1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot  x}}+\alpha^{\frac{1}{2}}_1+\beta^{\frac{2}{3}}_1$$
+
+$$sin^2\alpha+cos^2\alpha=1$$
+
+$$\iint_{x^2 + y^2 = 1} f(x, y) dx dy $$
+
+![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114632557/200984853-23d65020-4a7e-4ece-ad49-65fc43d673dd.png)
+
