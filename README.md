@@ -46,13 +46,11 @@ $$\iint_{x^2 + y^2 = 1} f(x, y) dx dy $$
 ![lagrida_latex_editor (3)](https://user-images.githubusercontent.com/114632557/200984853-23d65020-4a7e-4ece-ad49-65fc43d673dd.png)
 
 
+```mermaid
 flowchart LR
 
 A[Hard] -->|Text| B(Round)
-
 B --> C{Decision}
-
 C -->|One| D[Result 1]
-
 C -->|Two| E[Result 2]
-
+```
