@@ -106,3 +106,8 @@ if s[0]=='1' and s[2] == '2' and s[3] == '1' and s[4] == '3' and s[5] == '9' and
 
 ЕСЛИ(D3+C2>0;0;D3+C2)
 СЧЁТЕСЛИ(...)
+
+
+if all(num%delit!=0 for delit in range(2,num)):
+  тело
+ break принудительно закончить программу 
